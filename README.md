@@ -42,6 +42,11 @@ Add the correct pin's and required turning time for each blind to **blindssh.py*
 You can set the python script to start on reboot using these cronjon commands:
 https://www.raspberrypi.org/documentation/linux/usage/cron.md 
 
+Add:
+```
+@reboot python3 /home/pi/blind_paho.py &
+```
+
 ## Control blinds
 
 To control the blinds, you can either use an app such as :
