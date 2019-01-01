@@ -8,18 +8,18 @@ Open the blinddatawrite.py file, change accordingly and then run.
 You can verfify the file you create by running blinddataread.py
 
 You can then setup a MQTT mosquito server using instructions from:
-
+```
 sudo apt-get install mosquitto
 sudo apt-get install mosquitto-clients
-
+```
 https://www.youtube.com/watch?v=AsDHEDbyLfg 
 
 It is recommended that you create a username and password for your mosquito server.
 
 You then need to install the paho python client libraries with the commands:
-
+```
 pip install paho-mqtt
-
+```
 You can set the python script to start on reboot using these cronjon commands:
 https://www.raspberrypi.org/documentation/linux/usage/cron.md 
 
