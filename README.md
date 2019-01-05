@@ -5,6 +5,8 @@ The current setup is with three blinds.
 
 ## Hardware
 
+* 3 x MCU DIY 4 Phase Stepper Motor 5V with UL2003 Driver Board
+
 ## Create Pickle file
 
 The first step is to create a pickle file with blinds postition set in either the open or the closed position.
