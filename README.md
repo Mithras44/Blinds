@@ -20,8 +20,8 @@ You can then setup a MQTT mosquito server using instructions from:
 sudo apt-get install mosquitto
 sudo apt-get install mosquitto-clients
 ```
-https://www.youtube.com/watch?v=AsDHEDbyLfg 
-https://medium.com/@eranda/setting-up-authentication-on-mosquitto-mqtt-broker-de5df2e29afc
+* https://www.youtube.com/watch?v=AsDHEDbyLfg 
+* https://medium.com/@eranda/setting-up-authentication-on-mosquitto-mqtt-broker-de5df2e29afc
 
 It is recommended that you create a username and password for your mosquito server.
 
