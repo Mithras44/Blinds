@@ -5,7 +5,7 @@ The current setup is with three blinds.
 
 ## Hardware
 
-* 3 x MCU DIY 4 Phase Stepper Motor 5V with UL2003 Driver Board
+* 3 x MCU DIY 28BYJ-48 4 Phase Stepper Motor 5V with UL2003 Driver Board
 
 ## Create Pickle file
 
