@@ -53,6 +53,7 @@ Add:
 ## Control blinds
 
 To control the blinds, you can either use an app such as :
-https://play.google.com/store/apps/details?id=snr.lab.iotmqttpanel.prod
+
+* https://play.google.com/store/apps/details?id=snr.lab.iotmqttpanel.prod
 
 Or run a tkinter GUI on a computer using the **blind_tkinter.py** script.
