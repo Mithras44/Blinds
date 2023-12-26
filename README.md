@@ -31,7 +31,7 @@ It is recommended that you create a username and password for your mosquito serv
 
 You then need to install the paho python client libraries with the commands:
 ```
-pip install paho-mqtt
+pip3 install paho-mqtt
 ```
 
 ## Setup python files 
